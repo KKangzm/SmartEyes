@@ -1,0 +1,11 @@
+{
+"name": "com.kkang.smart-eyes",
+"version": "1.0.0",
+"displayName": "Smart Eyes",
+"description": "Make eye movements according to the voice!",
+"unity": "2020.3",
+"keywords": [
+    "speech",
+    "recognition"
+]
+}
